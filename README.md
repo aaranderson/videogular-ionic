@@ -2,7 +2,7 @@
 
 Using Videogular together with ionic in a simple project
 
-This was a test if I can get videogular working within a cordova / ionic project. Actually it worked on an android 4.4 phone.
+This was a test if I can get videogular working within a cordova / ionic project.
 
 If you want to build the project in Android for example
 * add the android plattform: <code>cordova platform add android</code>
